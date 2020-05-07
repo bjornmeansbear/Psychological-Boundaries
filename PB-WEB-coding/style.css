@@ -1,9 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&display=swap');
+
 body {
     background-color: black;
-
 }
 
-    
 .dropbtn {
     width:25%;
     padding: 20px;
@@ -52,9 +52,6 @@ font-family: Balto, sans-serif;
 font-size: 3vw;
 color: black;
 font-weight: 500;
-position: absolute;
-top:210vw;
-left:24vw;
 letter-spacing: 0.3vw;
 line-height: 3.5vw;
 
@@ -69,9 +66,6 @@ font-size: 1.3vw;
 letter-spacing: 0.03vw;
 line-height: 2vw;
 color: black;
-position: absolute;
-top: 215vw;
-left: 24vw;
 text-align: left;
 
 }
@@ -85,9 +79,6 @@ font-size: 1.3vw;
 letter-spacing: 0.03vw;
 line-height: 2vw;
 color: black;
-position: absolute;
-top: 230vw;
-left: 24vw;
 text-align: left;
 font-weight: 800;
 
