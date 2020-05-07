@@ -61,7 +61,6 @@ line-height: 3.5vw;
 font-family: Apercu, sans-serif;
 font-weight: 100;
 opacity: 1;
-width: 46vw;
 font-size: 1.3vw;
 letter-spacing: 0.03vw;
 line-height: 2vw;
@@ -70,11 +69,10 @@ text-align: left;
 
 }
 
-.intro p2 {
+.intro p {
 font-family: Apercu, sans-serif;
 font-weight: 100;
 opacity: 1;
-width: 46vw;
 font-size: 1.3vw;
 letter-spacing: 0.03vw;
 line-height: 2vw;
@@ -84,9 +82,9 @@ font-weight: 800;
 
 }
     
-    .start-to-try {
-        width:10vw;
-font-family: Apercu, sans-serif;
+.start-to-try {
+  width:10vw;
+  font-family: Apercu, sans-serif;
 font-size: 1.5vw;
 color: black;
 font-weight: bold;
